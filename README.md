@@ -11,4 +11,7 @@ MongoDB shell on commandprompt
 ![alt text](https://github.com/kbhagi/health/blob/master/kure_3.PNG)
 
 
+Collections of users in patientdB document of MongoDB
+
+![alt text](https://github.com/kbhagi/health/blob/master/mongodb_Collections_users_patientDB.PNG)
 
